@@ -1,0 +1,23 @@
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\TradeZ\TradeZ\bin\Debug\TradeZ.exe.config
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\TradeZ\TradeZ\bin\Debug\TradeZ.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\TradeZ\TradeZ\bin\Debug\TradeZ.pdb
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\TradeZ\TradeZ\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\TradeZ\TradeZ\obj\Debug\TradeZ.csprojAssemblyReference.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\TradeZ\TradeZ\obj\Debug\TradeZ.Form1.resources
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\TradeZ\TradeZ\obj\Debug\TradeZ.Properties.Resources.resources
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\TradeZ\TradeZ\obj\Debug\TradeZ.csproj.GenerateResource.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\TradeZ\TradeZ\obj\Debug\TradeZ.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\TradeZ\TradeZ\obj\Debug\TradeZ.csproj.CopyComplete
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\TradeZ\TradeZ\obj\Debug\TradeZ.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\TradeZ\TradeZ\obj\Debug\TradeZ.pdb
+C:\Users\prwdi\OneDrive\Рабочий стол\TradeZ\TradeZ\bin\Debug\TradeZ.exe.config
+C:\Users\prwdi\OneDrive\Рабочий стол\TradeZ\TradeZ\bin\Debug\TradeZ.exe
+C:\Users\prwdi\OneDrive\Рабочий стол\TradeZ\TradeZ\bin\Debug\TradeZ.pdb
+C:\Users\prwdi\OneDrive\Рабочий стол\TradeZ\TradeZ\obj\Debug\TradeZ.csprojAssemblyReference.cache
+C:\Users\prwdi\OneDrive\Рабочий стол\TradeZ\TradeZ\obj\Debug\TradeZ.Form1.resources
+C:\Users\prwdi\OneDrive\Рабочий стол\TradeZ\TradeZ\obj\Debug\TradeZ.Properties.Resources.resources
+C:\Users\prwdi\OneDrive\Рабочий стол\TradeZ\TradeZ\obj\Debug\TradeZ.csproj.GenerateResource.cache
+C:\Users\prwdi\OneDrive\Рабочий стол\TradeZ\TradeZ\obj\Debug\TradeZ.csproj.CoreCompileInputs.cache
+C:\Users\prwdi\OneDrive\Рабочий стол\TradeZ\TradeZ\obj\Debug\TradeZ.csproj.CopyComplete
+C:\Users\prwdi\OneDrive\Рабочий стол\TradeZ\TradeZ\obj\Debug\TradeZ.exe
+C:\Users\prwdi\OneDrive\Рабочий стол\TradeZ\TradeZ\obj\Debug\TradeZ.pdb
